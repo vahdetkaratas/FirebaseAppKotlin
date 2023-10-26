@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967635206298",
+    "project_id": "fir-appkotlin-a67c6",
+    "storage_bucket": "fir-appkotlin-a67c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967635206298:android:a87bb52bc335bc904c5f23",
+        "android_client_info": {
+          "package_name": "com.karatas.firebaseappkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MIPKYiXUv_KGtTQhg_k0t9tfvk0yWmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
